@@ -17,3 +17,6 @@ The sales director clearly provided the question he wants to be answered from th
 The interactive Power Bi dashboard definitely answer more than the  inquiries needed by the directore which is very efficient for other analysis 
 
 
+##DASHBOARD
+![Crime stats dashboard](https://github.com/user-attachments/assets/1d95af1d-2508-4245-aed6-f66275f4ddf5)
+
