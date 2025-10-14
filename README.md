@@ -7,5 +7,5 @@ Dataset used:
 This dataset contained the following tables:
 - <a href = "https://github.com/dipeanthonia/Salesreport/blob/main/Sales%20table.xlsx">Sales Table</a>
 - <a href = "https://github.com/dipeanthonia/Salesreport/blob/main/sales%20data%20csv/products.csv">Products Table</a>
-- <a href = "https://github.com/dipeanthonia/Salesreport/tree/main/sales%20data%20csv">Sales Team</a>
-- <a href = "https://github.com/dipeanthonia/Salesreport/tree/main/sales%20data%20csv">Store Location</a>
+- <a href = "https://github.com/dipeanthonia/Salesreport/blob/main/sales%20data%20csv/sales%20team.csv">Sales Team</a>
+- <a href = "">Store Location</a>
