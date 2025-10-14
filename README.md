@@ -5,7 +5,7 @@ This is a Power Bi project created using the sales report of DTLM retail over th
 Dataset used:
 <a href = "https://github.com/dipeanthonia/Salesreport/tree/main/sales%20data%20csv">Dataset</a>
 This dataset contained the following tables:
-- <a href = "https://github.com/dipeanthonia/Salesreport/tree/main/sales%20data%20csv">Sales Table</a>
+- <a href = "https://github.com/dipeanthonia/Salesreport/blob/main/Sales%20table.xlsx">Sales Table</a>
 - <a href = "https://github.com/dipeanthonia/Salesreport/tree/main/sales%20data%20csv">Products Table</a>
 - <a href = "https://github.com/dipeanthonia/Salesreport/tree/main/sales%20data%20csv">Sales Team</a>
 - <a href = "https://github.com/dipeanthonia/Salesreport/tree/main/sales%20data%20csv">Store Location</a>
