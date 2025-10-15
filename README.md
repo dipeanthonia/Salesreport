@@ -20,6 +20,7 @@ The interactive Power Bi dashboard definitely answer more than the  inquiries ne
 
 
 ##DASHBOARD
+
 ![Crime stats dashboard](https://github.com/dipeanthonia/Salesreport/blob/main/SALES%20REPORT%20ANALYSIS.JPG)
 
 OR CLICK THIS 
