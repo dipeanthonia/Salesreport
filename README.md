@@ -24,9 +24,24 @@ The interactive Power Bi dashboard definitely answer more than the  inquiries ne
 
 OR CLICK THIS 
 
-- <a href = "https://github.com/dipeanthonia/crime-stats/blob/main/Crime%20stats%20dashboard.JPG">Dashboard Preview</a>
+- <a href = "https://github.com/dipeanthonia/Salesreport/blob/main/SALES%20REPORT%20ANALYSIS.JPG">Dashboard Preview</a>
 
 Click the link below to view the interactive dashboard to gain better insights of the analysis.
 
 - <a href = "https://github.com/dipeanthonia/Salesreport/blob/main/SALES%20REPORT.pbix">View Interactive Dashboard</a>
 
+##PROCESS
+- Verify data by checking for missing and duplicate data
+- Make sure data is consistent and no anomalies and outliers
+- Use excel to do the revenue and profit calculation
+- Load data to power Bi and reate relationships between tables by linking in the model
+- Create visualizations to draw insights
+
+  
+##INSIGHTS
+The following insights are strictly answers to the <a href = "https://github.com/dipeanthonia/Salesreport/blob/main/QUESTIONS.pdf">Questions </a>
+
+1. The top two revenue products  in  january are Vanities and collectibles
+2. The sales team with most revenue from the decoratives category in March is DONALD REYNOLDS.
+3. This analysis shows that the revenue of state such as california  and  Texas are very much dependent on the median income and also they have decent population to support that can of revenue.However, states like  New York  have low revenue compared to their population but average median income is very highich could only mean residents are not really seeing or interested in the products.
+ 
