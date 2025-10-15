@@ -28,5 +28,5 @@ OR CLICK THIS
 
 Click the link below to view the interactive dashboard to gain better insights of the analysis.
 
-- <a href = "https://github.com/dipeanthonia/crime-stats/blob/main/crime%20stats.pbix">View Interactive Dashboard</a>
+- <a href = "https://github.com/dipeanthonia/Salesreport/blob/main/SALES%20REPORT.pbix">View Interactive Dashboard</a>
 
