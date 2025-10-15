@@ -12,11 +12,21 @@ This dataset contained the following tables:
 - <a href = "https://github.com/dipeanthonia/Salesreport/blob/main/sales%20data%20csv/store%20locations.csv">Store Location</a>
 
 ##QUESTIONS
+
 The sales director clearly provided the question he wants to be answered from this analysis
-- <a href = "https://github.com/dipeanthonia/Salesreport/blob/main/sales%20data%20csv/store%20locations.csv">Store </a>
+- <a href = "https://github.com/dipeanthonia/Salesreport/blob/main/QUESTIONS.pdf">Questions </a>
+
 The interactive Power Bi dashboard definitely answer more than the  inquiries needed by the directore which is very efficient for other analysis 
 
 
 ##DASHBOARD
 ![Crime stats dashboard](https://github.com/dipeanthonia/Salesreport/blob/main/SALES%20REPORT%20ANALYSIS.JPG)
+
+OR CLICK THIS 
+
+- <a href = "https://github.com/dipeanthonia/crime-stats/blob/main/Crime%20stats%20dashboard.JPG">Dashboard Preview</a>
+
+Click the link below to view the interactive dashboard to gain better insights of the analysis.
+
+- <a href = "https://github.com/dipeanthonia/crime-stats/blob/main/crime%20stats.pbix">View Interactive Dashboard</a>
 
